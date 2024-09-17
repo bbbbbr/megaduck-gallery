@@ -7,7 +7,7 @@ A lightweight Javascript / JSON gallery for showcasing MegaDuck Homebrew and ROM
 
 # Adding Entries
 To submit a game or program, either :
-- **Recommended:** Open an [Issue](https://github.com/gbdk-2020/gbdk-2020-gallery/issues)
+- **Recommended:** Open an [Issue](https://github.com/bbbbbr/megaduck-gallery/issues)
 - Or edit the JSON data and open a Pull Request
 
 ### Required information for Pull Reuests which modify the JSON data directly:
