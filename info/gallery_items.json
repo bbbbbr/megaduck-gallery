@@ -1,0 +1,26 @@
+
+The JSON format for gallery entries is as follows:
+
+"galleryItems": [
+{
+    "authorName": "Name(s) of Author(s)",
+    "itemTitle": "Game's Title",
+    "shortDescription": "A short 4-10 word description. Try to avoid saying: for the MegaDuck/etc.",
+    "imagePreviewURL": "relative_url_path_to_image",
+    "linksArray":[
+        {"type": "primary", "url": "https://url_to_main_website",         "displayText": "Info"},
+        {"type": "store",   "url": "https://url_to_store_OPTIONAL",       "displayText": "Cart"},
+        {"type": "source",  "url": "https://url_to_source_code_OPTIONAL", "displayText": "Source"},
+                ],
+    "softwareTags": "Comma-space separated list of tags: Rom hack, Homebrew, OEM",
+    "categoryTags": "Comma-space separated list of tags: Camera, Demoscene, Engine, Game, Music, Simulation, Techdemo, Tool",
+    "gametypeTags": "Comma-space separated list of tags: Action, Adventure, Art, Card Game, Demoscene, Engine, Fighting, GameBoy Camera, GameBoy Printer, Idle, Microgames, Music, Platformer, Programming, Puzzle, Racing, Rhythm, Role Playing, Shooter, Simulation, Sports, Strategy, Survival, Testing, Tool, VirtualPet, Visual Novel",
+    "platformTags": "Comma separated list of tags: GameBoy, GameBoyColor, SuperGameBoy, MegaDuck, AnaloguePocket, GameGear, SMS, NES",
+    "featuredPriority": 0,         /* Integer: 0-10, with 10 highest */
+    "isOpenSource": true/false,
+    "licenseType": "License type, examples are: MIT, GPL, Unlicense, Unknown, etc", 
+    "isFreeDownload": true/false,
+    "hasPhysicalRelease": true/false,
+    "supportsLinkPlay": true/false,
+    "yearFirstReleased": "Example: 2021"
+},

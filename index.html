@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en" class="">
+<head>
+  <meta charset="UTF-8">
+  <title>MegaDuck Homebrew and ROM Hack Showcase</title>
+  <link rel="stylesheet" type="text/css" href="./css/styles.css" />
+
+  <script type="text/javascript" src="./data/homebrew_entries.js"></script>
+  <script type="text/javascript" src="./data/romhack_entries.js"></script>
+  <script type="text/javascript" src="./data/oem_entries.js"></script>
+
+  <script type="text/javascript" src="./js/globals.js"></script>
+  <script type="text/javascript" src="./js/util.js"></script>
+  <script type="text/javascript" src="./js/gallery.js"></script>
+  <script type="text/javascript" src="./js/sorting.js"></script>
+  <script type="text/javascript" src="./js/filters.js"></script>
+  <script type="text/javascript" src="./js/gallery_items.js"></script>
+
+  <link rel="icon" type="image/x-icon" href="/icon/favicon.ico">
+  <link rel="apple-touch-icon" sizes="180x180" href="./icon/megaduck_favicon_180x180.png">
+  <link rel="icon" type="image/png" sizes="48x48" href="./icon/megaduck_favicon_48x48.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="./icon/megaduck_favicon_32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="./icon/megaduck_favicon_16x16.png">
+
+  <meta property="og:title"        content="MegaDuck Homebrew and ROM Hack Showcase" />
+  <meta property="og:description"  content="A collection of MegaDuck Homebrew and ROM Hacks" />
+  <meta property="og:image:alt"    content="A collection of MegaDuck Homebrew and ROM Hacks" />
+  <meta property="og:url"          content="https://gbdk-2020.github.io/gbdk-2020-gallery/" /> <!-- TODO -->
+  <meta property="og:image"        content="/gbdk-2020-gallery/social/social_preview.png" /> <!-- TODO -->
+  <meta property="og:image:width"  content="1280" />
+  <meta property="og:image:height" content="640" />
+  <meta property="og:twitter:card" content="summary_large_image" />
+</head>
+<body>
+
+<script>
+    // Try to detect mobile vs desktop to set font scaling
+    detectDeviceType();
+</script>
+<noscript>Javascript is required for viewing this gallery</noscript>
+
+<div class="header">
+    <div class="topbanner">
+        <h1>MegaDuck Homebrew and ROM Hack Showcase</h1>
+
+        A collection of Homebrew and ROM Hacks for the MegaDuck clone console.
+        <br>
+        <br>Entries can be submitted on <a href="https://github.com/gbdk-2020/gbdk-2020-gallery">Github</a>.
+            Also see <a href="https://megaduck.dev">megaduck.dev</a> for technical information and development tools.
+        <br>Sort by: <select id="sortSelector"></select>
+    </div>
+    <div class="filter_container">
+        <div class="filter_multi"><select id="categoryTagsFilter"></select></div>
+        <div class="filter_multi"><select id="gameTypeTagsFilter"></select></div>
+        <div class="filter_multi"><select id="softwareTagsFilter"></select></div>
+        <div class="filter_multi"><select id="yearReleasedFilter"></select></div>
+
+        <div class="filter_checkboxes">
+                 <label class="checkbox_label"><input type="checkbox" id="openSourceFilter"    name="openSourceFilter">    Open Source</label>
+            <br> <label class="checkbox_label"><input type="checkbox" id="laptopOnlyFilter" name="laptopOnlyFilter"> Laptop Model Only</label>
+        </div>
+        <div class="filter_checkboxes">
+                 <label class="checkbox_label"><input type="checkbox" id="cartReleaseFilter"   name="cartReleaseFilter">   Cart Release</label>  <!-- TODO HIDE? -->
+            <br> <label class="checkbox_label"><input type="checkbox" id="linkPlayFilter"      name="linkPlayFilter">      Link Play</label>
+        </div>
+        <div class="filter_textsearch">
+            <input type="search" id="textSearch" name="textSearch" placeholder="search..."/>
+            <br>
+            <span id="numFoundResult" name="numFoundResult">0</span> found
+            <span class="filter_span_button" id="resetFilterButton" name="resetFilterButton">Reset</span>
+            <span class="filter_span_button" id="copyLinkFilterButton" name="copyLinkFilterButton">Copy Link</span>
+        </div>
+    </div>
+</div>
+
+<div class="gallery_container">
+    <div id="gallery_grid" class="gallery_grid">
+    </div>
+</div>
+
+
+
+</body></html>
