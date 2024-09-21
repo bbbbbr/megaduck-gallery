@@ -322,5 +322,28 @@ const jsonGalleryItemsItch = [
     "dateAdded": "2024-09-16"
 },
 
+{
+    "authorName": "Pukrefunktion, bbbbbr",
+    "itemTitle": "Droneboy",
+    "shortDescription": "Custom Game Boy Camera ROM (requires cart slot adapter)",
+    "imagePreviewURL": "pix/homebrew/droneboy.png",
+    "linksArray":[
+        {"type": "primary", "url": "https://github.com/bbbbbr/Droneboy_MegaDuck", "displayText": "Info"},
+        {"type": "source",  "url": "https://github.com/bbbbbr/Droneboy_MegaDuck", "displayText": "Source"},
+                ],
+    "softwareTags": "Homebrew",
+    "categoryTags": "Music",
+    "gameTypeTags": "Music",
+    "platformTags": "Handheld",
+    "featuredPriority": 7,
+    "isOpenSource": true,
+    "licenseType": "MIT",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "supportsLinkPlay": false,
+    "yearFirstReleased": "2023",
+    "dateAdded": "2024-09-20"
+},
+
 ];
 
