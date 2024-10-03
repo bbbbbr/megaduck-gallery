@@ -50,11 +50,11 @@ const jsonGalleryItemsItch = [
 {
     "authorName": "bbbbbr",
     "itemTitle": "Laptop Keyboard Example",
-    "shortDescription": "GBDK example code for reading keyboard input",
+    "shortDescription": "GBDK example to read keyboard input. Now included in GBDK-2020",
     "imagePreviewURL": "pix/homebrew/megaduck_gbdk_keyboard_example.png",
     "linksArray": [
-        {"type": "primary", "url": "https://github.com/bbbbbr/megaduck_laptop_gbdk_examples", "displayText": "Info"},
-        {"type": "source", "url": "https://github.com/bbbbbr/megaduck_laptop_gbdk_examples", "displayText": "Source"},
+        {"type": "primary", "url": "https://github.com/gbdk-2020/gbdk-2020/tree/develop/gbdk-lib/examples/megaduck", "displayText": "Info"},
+        {"type": "source",  "url": "https://github.com/gbdk-2020/gbdk-2020/tree/develop/gbdk-lib/examples/megaduck", "displayText": "Source"},
                 ],
     "softwareTags": "Homebrew",
     "categoryTags": "Utility",
@@ -68,6 +68,29 @@ const jsonGalleryItemsItch = [
     "supportsLinkPlay": false,
     "yearFirstReleased": "2023",
     "dateAdded": "2024-09-16"
+},
+
+{
+    "authorName": "bbbbbr",
+    "itemTitle": "Laptop RTC Example",
+    "shortDescription": "GBDK example to read and write the RTC (date/time). Now included in GBDK-2020",
+    "imagePreviewURL": "pix/homebrew/megaduck_gbdk_rtc_example.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://github.com/gbdk-2020/gbdk-2020/tree/develop/gbdk-lib/examples/megaduck", "displayText": "Info"},
+        {"type": "source",  "url": "https://github.com/gbdk-2020/gbdk-2020/tree/develop/gbdk-lib/examples/megaduck", "displayText": "Source"},
+                ],
+    "softwareTags": "Homebrew",
+    "categoryTags": "Utility",
+    "gameTypeTags": "RTC Time and Date",
+    "platformTags": "Laptop",
+    "featuredPriority": 2,
+    "isOpenSource": true,
+    "licenseType": "Unlicense",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "supportsLinkPlay": false,
+    "yearFirstReleased": "2024",
+    "dateAdded": "2024-10-03"
 },
 
 {
