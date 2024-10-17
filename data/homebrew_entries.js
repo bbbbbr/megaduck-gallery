@@ -368,5 +368,28 @@ const jsonGalleryItemsItch = [
     "dateAdded": "2024-09-20"
 },
 
+{
+    "authorName": "Infututo",
+    "itemTitle": "Cracky",
+    "shortDescription": "Clear the level by collecting all the stars",
+    "imagePreviewURL": "pix/homebrew/cracky.png",
+    "linksArray":[
+        {"type": "primary", "url": "http://inufuto.web.fc2.com/8bit/cracky/#megaduck", "displayText": "Info"},
+        {"type": "source",  "url": "https://github.com/inufuto/Cate_examples/tree/main/megaduck/cracky", "displayText": "Source"},
+                ],
+    "softwareTags": "Homebrew",
+    "categoryTags": "Action",
+    "gameTypeTags": "Platformer",
+    "platformTags": "Handheld",
+    "featuredPriority": 7,
+    "isOpenSource": true,
+    "licenseType": "Unknown",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "supportsLinkPlay": false,
+    "yearFirstReleased": "2024",
+    "dateAdded": "2024-10-16"
+},
+
 ];
 
