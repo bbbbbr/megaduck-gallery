@@ -368,6 +368,8 @@ const jsonGalleryItemsItch = [
     "dateAdded": "2024-09-20"
 },
 
+
+
 {
     "authorName": "Infututo",
     "itemTitle": "Cracky",
@@ -378,10 +380,10 @@ const jsonGalleryItemsItch = [
         {"type": "source",  "url": "https://github.com/inufuto/Cate_examples/tree/main/megaduck/cracky", "displayText": "Source"},
                 ],
     "softwareTags": "Homebrew",
-    "categoryTags": "Action",
+    "categoryTags": "Game",
     "gameTypeTags": "Platformer",
     "platformTags": "Handheld",
-    "featuredPriority": 7,
+    "featuredPriority": 6,
     "isOpenSource": true,
     "licenseType": "Unknown",
     "isFreeDownload": true,
@@ -390,6 +392,241 @@ const jsonGalleryItemsItch = [
     "yearFirstReleased": "2024",
     "dateAdded": "2024-10-16"
 },
+
+{
+    "authorName": "Infututo",
+    "itemTitle": "Cacorm",
+    "shortDescription": "Collect stars by drawing a line around them",
+    "imagePreviewURL": "pix/homebrew/cacorm.png",
+    "linksArray":[
+        {"type": "primary", "url": "http://inufuto.web.fc2.com/8bit/cracky/#megaduck", "displayText": "Info"},
+        {"type": "source",  "url": "https://github.com/inufuto/Cate_examples/tree/main/megaduck/cracky", "displayText": "Source"},
+                ],
+    "softwareTags": "Homebrew",
+    "categoryTags": "Game",
+    "gameTypeTags": "Action",
+    "platformTags": "Handheld",
+    "featuredPriority": 5,
+    "isOpenSource": true,
+    "licenseType": "Unknown",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "supportsLinkPlay": false,
+    "yearFirstReleased": "2024",
+    "dateAdded": "2024-10-19"
+},
+
+{
+    "authorName": "Infututo",
+    "itemTitle": "Lift",
+    "shortDescription": "Avoid monsters and collect the flags by riding lifts",
+    "imagePreviewURL": "pix/homebrew/lift.png",
+    "linksArray":[
+        {"type": "primary", "url": "http://inufuto.web.fc2.com/8bit/lift/#megaduck", "displayText": "Info"},
+        {"type": "source",  "url": "https://github.com/inufuto/Cate_examples/tree/main/megaduck/lift", "displayText": "Source"},
+                ],
+    "softwareTags": "Homebrew",
+    "categoryTags": "Game",
+    "gameTypeTags": "Platformer",
+    "platformTags": "Handheld",
+    "featuredPriority": 4,
+    "isOpenSource": true,
+    "licenseType": "Unknown",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "supportsLinkPlay": false,
+    "yearFirstReleased": "2024",
+    "dateAdded": "2024-10-19"
+},
+
+{
+    "authorName": "Infututo",
+    "itemTitle": "AntiAir",
+    "shortDescription": "Destroy all UFOs while avoiding bombs and blocks",
+    "imagePreviewURL": "pix/homebrew/antiair.png",
+    "linksArray":[
+        {"type": "primary", "url": "http://inufuto.web.fc2.com/8bit/antiair/#megaduck", "displayText": "Info"},
+        {"type": "source",  "url": "https://github.com/inufuto/Cate_examples/tree/main/megaduck/antiair", "displayText": "Source"},
+                ],
+    "softwareTags": "Homebrew",
+    "categoryTags": "Game",
+    "gameTypeTags": "Shooter",
+    "platformTags": "Handheld",
+    "featuredPriority": 3,
+    "isOpenSource": true,
+    "licenseType": "Unknown",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "supportsLinkPlay": false,
+    "yearFirstReleased": "2024",
+    "dateAdded": "2024-10-19"
+},
+
+
+{
+    "authorName": "Infututo",
+    "itemTitle": "Mazy",
+    "shortDescription": "Find the maze exit and defeat monsters",
+    "imagePreviewURL": "pix/homebrew/mazy.png",
+    "linksArray":[
+        {"type": "primary", "url": "http://inufuto.web.fc2.com/8bit/mazy/#megaduck", "displayText": "Info"},
+        {"type": "source",  "url": "https://github.com/inufuto/Cate_examples/tree/main/megaduck/mazy", "displayText": "Source"},
+                ],
+    "softwareTags": "Homebrew",
+    "categoryTags": "Game",
+    "gameTypeTags": "Maze",
+    "platformTags": "Handheld",
+    "featuredPriority": 3,
+    "isOpenSource": true,
+    "licenseType": "Unknown",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "supportsLinkPlay": false,
+    "yearFirstReleased": "2024",
+    "dateAdded": "2024-10-21"
+},
+
+{
+    "authorName": "Infututo",
+    "itemTitle": "OSOTOS",
+    "shortDescription": "Stack blocks to get through areas and defeat monsters",
+    "imagePreviewURL": "pix/homebrew/osotos.png",
+    "linksArray":[
+        {"type": "primary", "url": "http://inufuto.web.fc2.com/8bit/osotos/#megaduck", "displayText": "Info"},
+        {"type": "source",  "url": "https://github.com/inufuto/Cate_examples/tree/main/megaduck/osotos", "displayText": "Source"},
+                ],
+    "softwareTags": "Homebrew",
+    "categoryTags": "Game",
+    "gameTypeTags": "Platformer",
+    "platformTags": "Handheld",
+    "featuredPriority": 3,
+    "isOpenSource": true,
+    "licenseType": "Unknown",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "supportsLinkPlay": false,
+    "yearFirstReleased": "2024",
+    "dateAdded": "2024-10-21"
+},
+
+
+{
+    "authorName": "Infututo",
+    "itemTitle": "Neuras",
+    "shortDescription": "Throw and line up cards to make them disappear",
+    "imagePreviewURL": "pix/homebrew/neuras.png",
+    "linksArray":[
+        {"type": "primary", "url": "http://inufuto.web.fc2.com/8bit/neuras/#megaduck", "displayText": "Info"},
+        {"type": "source",  "url": "https://github.com/inufuto/Cate_examples/tree/main/megaduck/neuras", "displayText": "Source"},
+                ],
+    "softwareTags": "Homebrew",
+    "categoryTags": "Game",
+    "gameTypeTags": "Action",
+    "platformTags": "Handheld",
+    "featuredPriority": 3,
+    "isOpenSource": true,
+    "licenseType": "Unknown",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "supportsLinkPlay": false,
+    "yearFirstReleased": "2024",
+    "dateAdded": "2024-10-21"
+},
+
+
+{
+    "authorName": "Infututo",
+    "itemTitle": "Ascend",
+    "shortDescription": "Reach the top floor, trap and destroy monsters with blocks",
+    "imagePreviewURL": "pix/homebrew/ascend.png",
+    "linksArray":[
+        {"type": "primary", "url": "http://inufuto.web.fc2.com/8bit/ascend/#megaduck", "displayText": "Info"},
+        {"type": "source",  "url": "https://github.com/inufuto/Cate_examples/tree/main/megaduck/ascend", "displayText": "Source"},
+                ],
+    "softwareTags": "Homebrew",
+    "categoryTags": "Game",
+    "gameTypeTags": "Platformer",
+    "platformTags": "Handheld",
+    "featuredPriority": 3,
+    "isOpenSource": true,
+    "licenseType": "Unknown",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "supportsLinkPlay": false,
+    "yearFirstReleased": "2024",
+    "dateAdded": "2024-10-21"
+},
+
+
+{
+    "authorName": "Infututo",
+    "itemTitle": "Yewdow",
+    "shortDescription": "Guide the car to collect flags using arrows",
+    "imagePreviewURL": "pix/homebrew/yewdow.png",
+    "linksArray":[
+        {"type": "primary", "url": "http://inufuto.web.fc2.com/8bit/yewdow/#megaduck", "displayText": "Info"},
+        {"type": "source",  "url": "https://github.com/inufuto/Cate_examples/tree/main/megaduck/yewdow", "displayText": "Source"},
+                ],
+    "softwareTags": "Homebrew",
+    "categoryTags": "Game",
+    "gameTypeTags": "Action",
+    "platformTags": "Handheld",
+    "featuredPriority": 3,
+    "isOpenSource": true,
+    "licenseType": "Unknown",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "supportsLinkPlay": false,
+    "yearFirstReleased": "2024",
+    "dateAdded": "2024-10-21"
+},
+
+{
+    "authorName": "Infututo",
+    "itemTitle": "Hopman",
+    "shortDescription": "Reach the goal on the far right",
+    "imagePreviewURL": "pix/homebrew/hopman.png",
+    "linksArray":[
+        {"type": "primary", "url": "http://inufuto.web.fc2.com/8bit/hopman/#megaduck", "displayText": "Info"},
+        {"type": "source",  "url": "https://github.com/inufuto/Cate_examples/tree/main/megaduck/hopman", "displayText": "Source"},
+                ],
+    "softwareTags": "Homebrew",
+    "categoryTags": "Game",
+    "gameTypeTags": "Platformer",
+    "platformTags": "Handheld",
+    "featuredPriority": 3,
+    "isOpenSource": true,
+    "licenseType": "Unknown",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "supportsLinkPlay": false,
+    "yearFirstReleased": "2024",
+    "dateAdded": "2024-10-21"
+},
+
+{
+    "authorName": "Infututo",
+    "itemTitle": "Aerial",
+    "shortDescription": "Reach the goal on the far right",
+    "imagePreviewURL": "pix/homebrew/aerial.png",
+    "linksArray":[
+        {"type": "primary", "url": "http://inufuto.web.fc2.com/8bit/aerial/#megaduck", "displayText": "Info"},
+        {"type": "source",  "url": "https://github.com/inufuto/Cate_examples/tree/main/megaduck/aerial", "displayText": "Source"},
+                ],
+    "softwareTags": "Homebrew",
+    "categoryTags": "Game",
+    "gameTypeTags": "Shooter",
+    "platformTags": "Handheld",
+    "featuredPriority": 5,
+    "isOpenSource": true,
+    "licenseType": "Unknown",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "supportsLinkPlay": false,
+    "yearFirstReleased": "2024",
+    "dateAdded": "2024-10-21"
+},
+
 
 ];
 
