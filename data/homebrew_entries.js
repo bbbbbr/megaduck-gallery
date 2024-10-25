@@ -371,7 +371,7 @@ const jsonGalleryItemsItch = [
 
 
 {
-    "authorName": "Infututo",
+    "authorName": "Inufuto",
     "itemTitle": "Cracky",
     "shortDescription": "Clear the level by collecting all the stars",
     "imagePreviewURL": "pix/homebrew/cracky.png",
@@ -383,7 +383,7 @@ const jsonGalleryItemsItch = [
     "categoryTags": "Game",
     "gameTypeTags": "Platformer",
     "platformTags": "Handheld",
-    "featuredPriority": 6,
+    "featuredPriority": 4,
     "isOpenSource": true,
     "licenseType": "Unknown",
     "isFreeDownload": true,
@@ -394,19 +394,19 @@ const jsonGalleryItemsItch = [
 },
 
 {
-    "authorName": "Infututo",
+    "authorName": "Inufuto",
     "itemTitle": "Cacorm",
     "shortDescription": "Collect stars by drawing a line around them",
     "imagePreviewURL": "pix/homebrew/cacorm.png",
     "linksArray":[
-        {"type": "primary", "url": "http://inufuto.web.fc2.com/8bit/cracky/#megaduck", "displayText": "Info"},
-        {"type": "source",  "url": "https://github.com/inufuto/Cate_examples/tree/main/megaduck/cracky", "displayText": "Source"},
+        {"type": "primary", "url": "http://inufuto.web.fc2.com/8bit/cacorm/#megaduck", "displayText": "Info"},
+        {"type": "source",  "url": "https://github.com/inufuto/Cate_examples/tree/main/megaduck/cacorm", "displayText": "Source"},
                 ],
     "softwareTags": "Homebrew",
     "categoryTags": "Game",
     "gameTypeTags": "Action",
     "platformTags": "Handheld",
-    "featuredPriority": 5,
+    "featuredPriority": 4,
     "isOpenSource": true,
     "licenseType": "Unknown",
     "isFreeDownload": true,
@@ -417,7 +417,7 @@ const jsonGalleryItemsItch = [
 },
 
 {
-    "authorName": "Infututo",
+    "authorName": "Inufuto",
     "itemTitle": "Lift",
     "shortDescription": "Avoid monsters and collect the flags by riding lifts",
     "imagePreviewURL": "pix/homebrew/lift.png",
@@ -440,7 +440,7 @@ const jsonGalleryItemsItch = [
 },
 
 {
-    "authorName": "Infututo",
+    "authorName": "Inufuto",
     "itemTitle": "AntiAir",
     "shortDescription": "Destroy all UFOs while avoiding bombs and blocks",
     "imagePreviewURL": "pix/homebrew/antiair.png",
@@ -464,7 +464,7 @@ const jsonGalleryItemsItch = [
 
 
 {
-    "authorName": "Infututo",
+    "authorName": "Inufuto",
     "itemTitle": "Mazy",
     "shortDescription": "Find the maze exit and defeat monsters",
     "imagePreviewURL": "pix/homebrew/mazy.png",
@@ -487,7 +487,7 @@ const jsonGalleryItemsItch = [
 },
 
 {
-    "authorName": "Infututo",
+    "authorName": "Inufuto",
     "itemTitle": "OSOTOS",
     "shortDescription": "Stack blocks to get through areas and defeat monsters",
     "imagePreviewURL": "pix/homebrew/osotos.png",
@@ -511,7 +511,7 @@ const jsonGalleryItemsItch = [
 
 
 {
-    "authorName": "Infututo",
+    "authorName": "Inufuto",
     "itemTitle": "Neuras",
     "shortDescription": "Throw and line up cards to make them disappear",
     "imagePreviewURL": "pix/homebrew/neuras.png",
@@ -535,7 +535,7 @@ const jsonGalleryItemsItch = [
 
 
 {
-    "authorName": "Infututo",
+    "authorName": "Inufuto",
     "itemTitle": "Ascend",
     "shortDescription": "Reach the top floor, trap and destroy monsters with blocks",
     "imagePreviewURL": "pix/homebrew/ascend.png",
@@ -559,7 +559,7 @@ const jsonGalleryItemsItch = [
 
 
 {
-    "authorName": "Infututo",
+    "authorName": "Inufuto",
     "itemTitle": "Yewdow",
     "shortDescription": "Guide the car to collect flags using arrows",
     "imagePreviewURL": "pix/homebrew/yewdow.png",
@@ -582,7 +582,7 @@ const jsonGalleryItemsItch = [
 },
 
 {
-    "authorName": "Infututo",
+    "authorName": "Inufuto",
     "itemTitle": "Hopman",
     "shortDescription": "Reach the goal on the far right",
     "imagePreviewURL": "pix/homebrew/hopman.png",
@@ -605,7 +605,7 @@ const jsonGalleryItemsItch = [
 },
 
 {
-    "authorName": "Infututo",
+    "authorName": "Inufuto",
     "itemTitle": "Aerial",
     "shortDescription": "Reach the goal on the far right",
     "imagePreviewURL": "pix/homebrew/aerial.png",
@@ -617,7 +617,7 @@ const jsonGalleryItemsItch = [
     "categoryTags": "Game",
     "gameTypeTags": "Shooter",
     "platformTags": "Handheld",
-    "featuredPriority": 5,
+    "featuredPriority": 3,
     "isOpenSource": true,
     "licenseType": "Unknown",
     "isFreeDownload": true,
@@ -626,6 +626,148 @@ const jsonGalleryItemsItch = [
     "yearFirstReleased": "2024",
     "dateAdded": "2024-10-21"
 },
+
+
+
+
+{
+    "authorName": "Inufuto",
+    "itemTitle": "IMPETUS",
+    "shortDescription": "",
+    "imagePreviewURL": "pix/homebrew/impetus.png",
+    "linksArray":[
+        {"type": "primary", "url": "http://inufuto.web.fc2.com/8bit/impetus/#megaduck", "displayText": "Info"},
+        {"type": "source",  "url": "https://github.com/inufuto/Cate_examples/tree/main/megaduck/impetus", "displayText": "Source"},
+                ],
+    "softwareTags": "Homebrew",
+    "categoryTags": "Game",
+    "gameTypeTags": "Shooter",
+    "platformTags": "Handheld",
+    "featuredPriority": 3,
+    "isOpenSource": true,
+    "licenseType": "Unknown",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "supportsLinkPlay": false,
+    "yearFirstReleased": "2024",
+    "dateAdded": "2024-10-25"
+},
+
+{
+    "authorName": "Inufuto",
+    "itemTitle": "Ruptus",
+    "shortDescription": "Destroy enemy bases",
+    "imagePreviewURL": "pix/homebrew/ruptus.png",
+    "linksArray":[
+        {"type": "primary", "url": "http://inufuto.web.fc2.com/8bit/ruptus/#megaduck", "displayText": "Info"},
+        {"type": "source",  "url": "https://github.com/inufuto/Cate_examples/tree/main/megaduck/ruptus", "displayText": "Source"},
+                ],
+    "softwareTags": "Homebrew",
+    "categoryTags": "Game",
+    "gameTypeTags": "Shooter",
+    "platformTags": "Handheld",
+    "featuredPriority": 3,
+    "isOpenSource": true,
+    "licenseType": "Unknown",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "supportsLinkPlay": false,
+    "yearFirstReleased": "2024",
+    "dateAdded": "2024-10-25"
+},
+
+{
+    "authorName": "Inufuto",
+    "itemTitle": "CAVIT",
+    "shortDescription": "Collect all the treasure chests, drop rocks on monsters",
+    "imagePreviewURL": "pix/homebrew/cavit.png",
+    "linksArray":[
+        {"type": "primary", "url": "http://inufuto.web.fc2.com/8bit/cavit/#megaduck", "displayText": "Info"},
+        {"type": "source",  "url": "https://github.com/inufuto/Cate_examples/tree/main/megaduck/cavit", "displayText": "Source"},
+                ],
+    "softwareTags": "Homebrew",
+    "categoryTags": "Game",
+    "gameTypeTags": "Action",
+    "platformTags": "Handheld",
+    "featuredPriority": 4,
+    "isOpenSource": true,
+    "licenseType": "Unknown",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "supportsLinkPlay": false,
+    "yearFirstReleased": "2024",
+    "dateAdded": "2024-10-25"
+},
+
+{
+    "authorName": "Inufuto",
+    "itemTitle": "GUNTUS",
+    "shortDescription": "Reach the goal on the far right",
+    "imagePreviewURL": "pix/homebrew/guntus.png",
+    "linksArray":[
+        {"type": "primary", "url": "http://inufuto.web.fc2.com/8bit/guntus/#megaduck", "displayText": "Info"},
+        {"type": "source",  "url": "https://github.com/inufuto/Cate_examples/tree/main/megaduck/guntus", "displayText": "Source"},
+                ],
+    "softwareTags": "Homebrew",
+    "categoryTags": "Game",
+    "gameTypeTags": "Shooter",
+    "platformTags": "Handheld",
+    "featuredPriority": 3,
+    "isOpenSource": true,
+    "licenseType": "Unknown",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "supportsLinkPlay": false,
+    "yearFirstReleased": "2024",
+    "dateAdded": "2024-10-25"
+},
+
+{
+    "authorName": "Inufuto",
+    "itemTitle": "Bootskell",
+    "shortDescription": "Push blocks to defeat monsters",
+    "imagePreviewURL": "pix/homebrew/bootskell.png",
+    "linksArray":[
+        {"type": "primary", "url": "http://inufuto.web.fc2.com/8bit/bootskell/#megaduck", "displayText": "Info"},
+        {"type": "source",  "url": "https://github.com/inufuto/Cate_examples/tree/main/megaduck/bootskell", "displayText": "Source"},
+                ],
+    "softwareTags": "Homebrew",
+    "categoryTags": "Game",
+    "gameTypeTags": "Action",
+    "platformTags": "Handheld",
+    "featuredPriority": 3,
+    "isOpenSource": true,
+    "licenseType": "Unknown",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "supportsLinkPlay": false,
+    "yearFirstReleased": "2024",
+    "dateAdded": "2024-10-25"
+},
+
+{
+    "authorName": "Inufuto",
+    "itemTitle": "Battlot",
+    "shortDescription": "Reach the goal on the far right",
+    "imagePreviewURL": "pix/homebrew/battlot.png",
+    "linksArray":[
+        {"type": "primary", "url": "http://inufuto.web.fc2.com/8bit/battlot/#megaduck", "displayText": "Info"},
+        {"type": "source",  "url": "https://github.com/inufuto/Cate_examples/tree/main/megaduck/battlot", "displayText": "Source"},
+                ],
+    "softwareTags": "Homebrew",
+    "categoryTags": "Game",
+    "gameTypeTags": "Action",
+    "platformTags": "Handheld",
+    "featuredPriority": 3,
+    "isOpenSource": true,
+    "licenseType": "Unknown",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "supportsLinkPlay": false,
+    "yearFirstReleased": "2024",
+    "dateAdded": "2024-10-25"
+},
+
 
 
 ];
