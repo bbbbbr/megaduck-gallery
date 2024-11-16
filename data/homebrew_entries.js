@@ -48,6 +48,29 @@ const jsonGalleryItemsItch = [
 },
 
 {
+    "authorName": "Monis Games, Toxa",
+    "itemTitle": "Polka Sheep",
+    "shortDescription": "Port of Polka Sheep to the Mega Duck",
+    "imagePreviewURL": "pix/homebrew/polkasheep.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://github.com/untoxa/Polka-Sheep", "displayText": "Info"},
+        {"type": "source",  "url": "https://github.com/untoxa/Polka-Sheep", "displayText": "Source"},
+                ],
+    "softwareTags": "Homebrew",
+    "categoryTags": "Game",
+    "gameTypeTags": "Platformer",
+    "platformTags": "Handheld",
+    "featuredPriority": 5,
+    "isOpenSource": true,
+    "licenseType": "Unknown",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "supportsLinkPlay": false,
+    "yearFirstReleased": "2024",
+    "dateAdded": "2024-11-15"
+},
+
+{
     "authorName": "bbbbbr",
     "itemTitle": "Laptop Keyboard Example",
     "shortDescription": "GBDK example to read keyboard input. Now included in GBDK-2020",
