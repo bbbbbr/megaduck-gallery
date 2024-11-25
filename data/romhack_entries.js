@@ -1,7 +1,7 @@
 
 const jsonGalleryItemsManual = [
 {
-    "authorName": "bbbbbr",
+    "authorName": "bbbbbr (rom patch)",
     "itemTitle": "Patch for Super Mario Land (Game Boy)",
     "shortDescription": "ROM hack to run on the MegaDuck",
     "imagePreviewURL": "pix/romhacks/marioland.png",
@@ -23,7 +23,7 @@ const jsonGalleryItemsManual = [
 },
 
 {
-    "authorName": "bbbbbr",
+    "authorName": "bbbbbr (rom patch)",
     "itemTitle": "Patch for Tetris (Game Boy)",
     "shortDescription": "ROM hack to run on the MegaDuck",
     "imagePreviewURL": "pix/romhacks/tetris.png",
@@ -45,7 +45,7 @@ const jsonGalleryItemsManual = [
 },
 
 {
-    "authorName": "ohnotomsutton, bbbbbr",
+    "authorName": "ohnotomsutton, bbbbbr (rom patch)",
     "itemTitle": "Patch for Fydo's Magic Tiles (Game Boy)",
     "shortDescription": "ROM hack to run on the MegaDuck",
     "imagePreviewURL": "pix/romhacks/fydo.png",
@@ -87,5 +87,70 @@ const jsonGalleryItemsManual = [
     "yearFirstReleased": "2023",
     "dateAdded": "2024-09-16"
 },
+
+{
+    "authorName": "Jonas Fischbach, bbbbbr (rom patch)",
+    "itemTitle": "Lunar Lancer (Game Boy)",
+    "shortDescription": "ROM hack to run on the MegaDuck",
+    "imagePreviewURL": "pix/romhacks/lunarlancer.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://bbbbbr.itch.io/megaduck-patch-for-lunarlancer-gameboy", "displayText": "Info"},
+                 ],
+    "softwareTags": "ROM Hack",
+    "categoryTags": "Game",
+    "gameTypeTags": "Shooter",
+    "platformTags": "Handheld",
+    "featuredPriority": 8,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "supportsLinkPlay": false,
+    "yearFirstReleased": "2024",
+    "dateAdded": "2024-11-27"
+},
+{
+    "authorName": "Denebola Interactive, bbbbbr (rom patch)",
+    "itemTitle": "Nocptern (Game Boy)",
+    "shortDescription": "ROM hack to run on the MegaDuck",
+    "imagePreviewURL": "pix/romhacks/nocptern.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://bbbbbr.itch.io/megaduck-patch-for-nocptern-gameboy", "displayText": "Info"},
+                 ],
+    "softwareTags": "ROM Hack",
+    "categoryTags": "Game",
+    "gameTypeTags": "Shooter",
+    "platformTags": "Handheld",
+    "featuredPriority": 7,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "supportsLinkPlay": false,
+    "yearFirstReleased": "2024",
+    "dateAdded": "2024-11-27"
+},
+{
+    "authorName": "User 0x7F, bbbbbr (rom patch)",
+    "itemTitle": "Genesis II (Game Boy)",
+    "shortDescription": "ROM hack to run on the MegaDuck",
+    "imagePreviewURL": "pix/romhacks/genesis2.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://bbbbbr.itch.io/mega-duck-patch-for-genesis2-gameboy", "displayText": "Info"},
+                 ],
+    "softwareTags": "ROM Hack",
+    "categoryTags": "Game",
+    "gameTypeTags": "Shooter",
+    "platformTags": "Handheld",
+    "featuredPriority": 9,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "supportsLinkPlay": false,
+    "yearFirstReleased": "2024",
+    "dateAdded": "2024-11-27"
+},
+
 
 ];
