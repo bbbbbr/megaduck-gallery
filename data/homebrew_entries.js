@@ -791,6 +791,29 @@ const jsonGalleryItemsItch = [
     "dateAdded": "2024-10-25"
 },
 
+{
+    "authorName": "Inufuto",
+    "itemTitle": "Mieyen",
+    "shortDescription": "Guess monster locations by vanished breadcrumbs. Reach the goal",
+    "imagePreviewURL": "pix/homebrew/mieyen.png",
+    "linksArray":[
+        {"type": "primary", "url": "http://inufuto.web.fc2.com/8bit/mieyen/#megaduck", "displayText": "Info"},
+        {"type": "source",  "url": "https://github.com/inufuto/Cate_examples/tree/main/megaduck/mieyen", "displayText": "Source"},
+                ],
+    "softwareTags": "Homebrew",
+    "categoryTags": "Game",
+    "gameTypeTags": "Action",
+    "platformTags": "Handheld",
+    "featuredPriority": 3,
+    "isOpenSource": true,
+    "licenseType": "Unknown",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "supportsLinkPlay": false,
+    "yearFirstReleased": "2025",
+    "dateAdded": "2025-02-9"
+},
+
 
 
 ];
