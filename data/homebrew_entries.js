@@ -814,7 +814,28 @@ const jsonGalleryItemsItch = [
     "dateAdded": "2025-02-9"
 },
 
-
+{
+    "authorName": "Inufuto",
+    "itemTitle": "Mazy2",
+    "shortDescription": "Find the maze exit and defeat monsters with the knives",
+    "imagePreviewURL": "pix/homebrew/mazy2.png",
+    "linksArray":[
+        {"type": "primary", "url": "http://inufuto.web.fc2.com/8bit/mazy2/#megaduck", "displayText": "Info"},
+        {"type": "source",  "url": "https://github.com/inufuto/Cate_examples/tree/main/megaduck/mazy2", "displayText": "Source"},
+                ],
+    "softwareTags": "Homebrew",
+    "categoryTags": "Game",
+    "gameTypeTags": "Maze",
+    "platformTags": "Handheld",
+    "featuredPriority": 3,
+    "isOpenSource": true,
+    "licenseType": "Unknown",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "supportsLinkPlay": false,
+    "yearFirstReleased": "2025",
+    "dateAdded": "2025-06-08"
+},
 
 ];
 
